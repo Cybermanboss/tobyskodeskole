@@ -27,3 +27,6 @@ while True:
 name = input("What is your name? ")
 print ("Hello, " + name)
 
+a = input("Number 1: ")
+b = input("Number 2: ")
+print (int(a) + int(b))
