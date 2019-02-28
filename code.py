@@ -7,3 +7,5 @@ print (r)
 1 + int(1)
 if r == "11":
 	print("r er lig med 11")
+if r != "11":
+    print("r ikke lig med 11")
