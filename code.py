@@ -1,1 +1,2 @@
-print("kage smager godt")
+hello = "Hello World!"
+print (hello)
