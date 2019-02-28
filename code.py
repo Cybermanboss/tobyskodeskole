@@ -14,3 +14,7 @@ if r != "11":
     print("r ikke lig med 11")
 for x in range(10):
     print(x)
+x = 0
+while x < 10:
+    print (x)
+    x += 1
