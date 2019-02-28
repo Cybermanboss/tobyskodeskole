@@ -9,3 +9,5 @@ if r == "11":
 	print("r er lig med 11")
 if r != "11":
     print("r ikke lig med 11")
+for x in range(10):
+    print(x)
