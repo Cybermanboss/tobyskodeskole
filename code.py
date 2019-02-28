@@ -30,3 +30,5 @@ print ("Hello, " + name)
 a = input("Number 1: ")
 b = input("Number 2: ")
 print (int(a) + int(b))
+import random
+print (random.randint(0, 100))
